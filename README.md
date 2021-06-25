@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samundar9525
+- 👋 Hi, I’m Samundar Singh
 - 👀 I’m interested in Machine Learning,App Development
 - 🌱 I’m currently learning MAchine Learning,Data Science,BlockChain
 - 💞️ I’m looking to collaborate on ...
