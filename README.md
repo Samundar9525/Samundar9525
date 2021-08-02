@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samundar Singh
-- 👀 I’m interested in Machine Learning,App Development
+- 👀 I’m interested in Machine Learning,DApps Development
 - 🌱 I’m currently learning MAchine Learning,Data Science,BlockChain
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me on "samundarsingh9"+str(2+3)+"2"+"str(10-5)"+"@gmail.com" .
