@@ -11,6 +11,9 @@ I'm a **Frontend Developer** with over **2 years of experience**, specializing i
 
 ## Project Links
 
-Stock watchlist using Sockets : [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/stock-trade/) <br>
-Angular Reusable componets: [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/angular_Reusable_component)<br>
-Stock Socket (inspect and see websocket): [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://stock-trade-be.onrender.com/)<br>
+| **Project Name**                                   | **Links**                                                                                     |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Stock watchlist using Sockets                      | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/stock-trade/)   |
+| Angular Reusable components                         | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/angular_Reusable_component) |
+| Stock Socket (inspect and see websocket)           | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://stock-trade-be.onrender.com/)         |
+
