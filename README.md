@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samundar Singh  
-I'm a **Frontend Developer** with over **2+ years of experience**, specializing in **Angular**. Currently, I work at **Caterpillar Inc.**, where I focus on building scalable business applications, creating reusable components, and enhancing application security.I hold an MCA degree from College of Engineering Guindy, Anna University (batch-2022) <br><br>
+I'm a **Frontend Developer** with  **2+ years of experience**, specializing in **Angular**. Currently, I work at **Caterpillar Inc.**, where I focus on building scalable business applications, creating reusable components, and enhancing application security.I hold an MCA degree from College of Engineering Guindy, Anna University (batch-2022) <br><br>
 
 | **Social and Coding Profiles** | [**Portfolio**](https://samundar9525.github.io/My-portfolio-hosted)  |
 |---------------------------------|---------------|
