@@ -14,8 +14,9 @@ I'm a **Frontend Developer** with  **2+ years of experience**, specializing in *
 | **Project Name**                                   | **Links**                                                                                     |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Stock watchlist using Sockets                      | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/stock-trade/)   |
-| Angular Reusable components                         | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/angular_Reusable_component) |
+| Angular Reusable components                        | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/angular_Reusable_component) |
 | Stock Socket (inspect and see websocket)           | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://stock-trade-be.onrender.com/)         |
+|JWT Token demo                                      | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://samundar9525.github.io/JWT-nodejs/)    |
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Samundar9525&style=flat-square" alt="Visitor Badge" />
